@@ -7,7 +7,7 @@ A simple CLI tool to interact with the [Messages-CRUD-RestAPI](https://github.co
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-org/messages-cli.git
+git clone https://github.com/GalBitton/Messages-CRUD-CLI.git
 cd messages-cli
 ```
 2. Install dependencies:
